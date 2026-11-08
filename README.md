@@ -1,5 +1,1 @@
-# AboutME
-🌱 I’m currently learning: Python DSA 
-,💬 Ask me about: c c++ and any general software development questions. 
-,⚡ Fun fact: I love learning new content.
-,X-https://x.com/HarshaMalepati
+I'm a 4th-year Cybersecurity student who enjoys understanding how systems work and how they break. I'm building a strong foundation in networking, Linux, programming, and security concepts, with a focus on SOC operations, threat monitoring, and entry-level penetration testing. I work hands-on with tools like Nmap, Wireshark, Burp Suite, Gobuster, and Metasploit, and I've built a machine learning-based web pentesting tool and a real-time cyber incident feed tool, which taught me to break down security problems logically and turn ideas into working solutions. I believe in consistent learning, clear communication, and adaptability, and I take ownership of the work I do. I'm actively looking for internship opportunities where I can learn from experienced teams, contribute, and gain practical experience. My goal is to start as a SOC Analyst and grow into Penetration Testing. If you're hiring, mentoring, or simply enjoy talking security, I'd love to connect.
